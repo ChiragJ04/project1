@@ -1,2 +1,2 @@
-# project1
+# Multi Post Generator
 project
